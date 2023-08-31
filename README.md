@@ -4,7 +4,7 @@
   
 
 ## Preview 
-- [Click here to See the demo ](file:///C:/Users/Sunaina/AndroidStudioProjects/survey%20form/index.html)
+- [Click here to See the demo ](https://6834e9ae.surveyform-a4a.pages.dev/)
  
 <br/> 
 <br/> 
